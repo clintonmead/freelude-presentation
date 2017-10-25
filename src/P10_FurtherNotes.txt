@@ -1,0 +1,9 @@
+Go through documentation examples
+
+Implementation notes:
+
+Category:
+
+1. Src and Dst separate, not used yet but used in Functor
+2. "Maybe Constraint", used also in Functor, "UnconstrainedFunctor"
+3. Have a look at "indextype" 
